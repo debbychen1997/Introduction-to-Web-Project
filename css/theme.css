@@ -1,0 +1,87 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  background-color: #e8ecf0 ;
+}
+h2 { font: bold 1.8rem Helvetica, Arial, sans-serif; margin: 0 0 1em; }
+p, ul, dl, ol, table { font-size: 16px; margin: 0 0 1.5em; }
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+.jumbotron{
+text-align:center;
+left:0;
+right:0;
+color:rgb(255, 255, 255);
+background-image:url("../image/time.jpg");
+background-repeat: no-repeat;
+background-size: 1500px 500px;
+/*background-position: 80% 80%;
+*/
+}
+.jumbotron h1,.jumbotron p{
+  background-color:rgba(54, 109, 106, 0.979);
+  width:700px;
+  text-align:center;
+  margin-left:160px;
+}
+.jumbotron button{
+  color:black;
+}
+.carousel{
+  margin-left:20px;
+}
+.btn{
+  text-align: center;
+  vertical-align: middle;
+  margin-left:auto;
+  margin-right:auto;
+}
+.image{
+  margin-left:auto;
+  margin-right:auto;
+  height: 685px;
+  width: 890px;
+}
+
+.navbar {
+  background-color:  rgb(108, 120, 121);
+}
+
+nav a{
+  color: white;
+}
+.navbar-form input[type=text]{
+  width:150px;
+  margin-top: 3px;
+}
+
+footer {
+  bottom: 0;
+  width: 100%;
+          /* Footer height */
+}
+form input[type = text]
+{
+  border-radius: 3px;
+  padding-left:4px;
+}
+.row{
+padding-left:30px;
+}
+body:not(nav){
+ /* background-color:rgb(248, 233, 211);*/
+}
+.card{
+  margin-left: 50px;
+}

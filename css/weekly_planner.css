@@ -1,0 +1,66 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+  }
+  
+  .theme-dropdown .dropdown-menu {
+    position: static;
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  .theme-showcase > p > .btn {
+    margin: 5px 0;
+  }
+  
+  .theme-showcase .navbar .container {
+    width: auto;
+  }
+  .jumbotron{
+  text-align:center;
+  background-image: url("../image/lightabstract.jpg");
+  background-repeat: no-repeat;
+  background-size: 1700px 1000px;
+  background-position-x: 20px ;
+  }
+  .carousel{
+    margin-left:20px;
+  }
+  .btn{
+    text-align: center;
+    vertical-align: middle;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .image{
+    margin-left:auto;
+    margin-right:auto;
+    height: 685px;
+    width: 890px;
+  }
+  .navbar {
+      background-color: rgb(108, 120, 121);
+      color: white;
+  }
+  .navbar-form input[type=text]{
+    width:150px;
+    margin-top: 3px;
+      }
+  
+bg-info{
+    background-color: aquamarine;
+    
+    }
+    .card{
+     
+      margin-left:50px;
+      margin-right:50px;
+      width: 50em;
+      height:100em;
+    }
+    thead{
+      background-color: rgb(253, 243, 228);
+    }
+    nav a{
+      color: white;
+    }
